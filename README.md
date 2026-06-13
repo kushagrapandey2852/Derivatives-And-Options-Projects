@@ -1,7 +1,9 @@
 # 📈 Derivatives & Options
 
 A collection of quantitative finance projects focused on derivatives pricing, options analytics, and volatility modelling.
-
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80" width="100%">
+</div>
 ---
 
 ## 📊 Projects
