@@ -12,7 +12,7 @@ A collection of quantitative finance projects focused on derivatives pricing, op
 
 🔗 Project URL: https://yourusername.github.io/live-options-analytics-terminal/
 
-💻 GitHub Repository: https://github.com/yourusername/live-options-analytics-terminal
+💻 GitHub Repository: https://github.com/kushagrapandey2852/Live-Options-Analytics-Terminal
 
 ---
 
@@ -22,7 +22,7 @@ A collection of quantitative finance projects focused on derivatives pricing, op
 
 🔗 Project URL: https://yourusername.github.io/exotic-options-pricer/
 
-💻 GitHub Repository: https://github.com/yourusername/exotic-options-pricer
+💻 GitHub Repository: https://github.com/kushagrapandey2852/Exotic-Options-Pricer
 
 ---
 
@@ -32,7 +32,7 @@ A collection of quantitative finance projects focused on derivatives pricing, op
 
 🔗 Project URL: https://yourusername.github.io/binomial-tree-option-pricer/
 
-💻 GitHub Repository: https://github.com/yourusername/binomial-tree-option-pricer
+💻 GitHub Repository: https://github.com/kushagrapandey2852/Binomial-Tree-Option-Pricer
 
 ---
 
