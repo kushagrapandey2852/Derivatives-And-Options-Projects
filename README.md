@@ -2,7 +2,7 @@
 
 A collection of quantitative finance projects focused on derivatives pricing, options analytics, and volatility modelling.
 <p align="center">
-  <img src="https://images.pexels.com/photos/6802042/pexels-photo-6802042.jpeg?auto=compress&cs=tinysrgb&w=1600" width="100%">
+  <img src="https://images.pexels.com/photos/6770775/pexels-photo-6770775.jpeg?auto=compress&cs=tinysrgb&w=1600" width="100%">
 </p>
 ---
 
